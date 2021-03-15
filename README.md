@@ -1,6 +1,13 @@
-# nodebook
+![Programming language](https://img.shields.io/badge/Language-Javascript-blue.svg)
+![Version](https://img.shields.io/badge/Version-1.0-brightgreen.svg)
+
+# nodebook 📔👩‍💻🔁💻📔🖥🔁👨‍💻📔
+
 repo to create node server for general testing and deploying to heroku 
 
+## environments 
+deploying to heroku through github [environments](https://github.com/ManuelVargas1251/nodebook/deployments)
+### https://nodebook-666.herokuapp.com
 
 ## using 
 https://www.npmjs.com/package/http-server
@@ -28,11 +35,11 @@ https://devcenter.heroku.com/articles/getting-started-with-nodejs#set-up
 4. heroku will auto-deploy your main branch
 
 ## notes
-```
+```node
 npm init
 
 npm install --global http-server // install globally for all programs; won't save as dependency to your node app
-npm install http-server // installs in node app's modules folder and updates ```package.json```
+npm install http-server // installs in node app's modules folder and updates package.json
 
 npx http-server
 
@@ -51,3 +58,8 @@ https://nodejs.org/en/docs/
 ## other
 
 https://sfconservancy.org/news/2020/jun/23/gitbranchname/
+
+
+https://github.com/ManuelVargas1251/nodebook/deployments/activity_log?environment=nodebook-666
+
+📔👩‍💻🔁💻📔🖥🔁👨‍💻📔
